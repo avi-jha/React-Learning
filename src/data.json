@@ -1,0 +1,50 @@
+[
+    {
+        "id": 8,
+        "title": "Cozy Book Nook",
+        "description": "Find your perfect reading spot with a cup of coffee and a great book.",
+        "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+        "rating": 4.9,
+        "category": "Lifestyle"
+    },
+    {
+        "id": 5,
+        "title": "Fitness & Wellness",
+        "description": "Boost your health with daily exercise and mindfulness techniques.",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+        "rating": 4.6,
+        "category": "Lifestyle"
+    },
+    {
+        "id": 7,
+        "title": "Space Exploration",
+        "description": "Journey through the universe and discover distant planets.",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564",
+        "rating": 4.8,
+        "category": "Science"
+    },
+    {
+        "id": 2,
+        "title": "Tech Innovations",
+        "description": "Discover the latest breakthroughs in AI and robotics shaping the future.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+        "rating": 4.7,
+        "category": "Science"
+    },
+    {
+        "id": 6,
+        "title": "Futuristic Cityscapes",
+        "description": "A glimpse into the modern architectural wonders of tomorrow.",
+        "image": "https://images.unsplash.com/photo-1509098681029-b45e9c845022",
+        "rating": 4.7,
+        "category": "Art"
+    },
+    {
+        "id": 4,
+        "title": "Sunset at the Beach",
+        "description": "Relax and unwind with a stunning sunset view over the ocean.",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "rating": 4.9,
+        "category": "Art"
+    }
+]
